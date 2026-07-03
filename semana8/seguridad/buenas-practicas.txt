@@ -1,0 +1,3 @@
+Instalar y mantener activo un antivirus confiable.
+Evitar abrir enlaces o archivos de correos y mensajes de origen desconocido.
+Realizar copias de seguridad (respaldos) periódicas de la información importante.

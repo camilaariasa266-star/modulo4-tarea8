@@ -1,0 +1,5 @@
+Mantener el software y las aplicaciones siempre actualizados.
+No exponer datos personales.
+Realizar copias de seguridad periódicas de la información.
+Verificar la identidad de los usuarios antes de otorgar permisos o acceso.
+Capacitar a los usuarios sobre cómo identificar intentos de fraude, como correos o mensajes falsos.

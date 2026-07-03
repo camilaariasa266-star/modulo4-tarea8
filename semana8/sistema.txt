@@ -1,0 +1,11 @@
+Qué información muestra cada comando.
+
+uname -a: Linux codespaces-7057a2 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+whoami: codespace
+
+
+Por qué es útil conocer información del sistema cuando se administra un servidor.
+Reconocer posibles vulnerabilidades, compatibilidad con las tecnologias en las cuales esta desarrollada
+nuestra aplicacion.
+permite supervisar el estado del servidor, detectar fallas a tiempo optimizar el uso de los recursos como la
+ memoria y el procesador.
